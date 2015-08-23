@@ -24,10 +24,12 @@ var compiler = new Compiler<RoslynEngine>();
 
 4 - Compile your type, by calling the Compile method of the compiler you created.
 ```
-var type = compiler.Compile(code, dependencies, false); // the false flag if for not generating debug info, defaults to true.
+// The false flag if for generating debug information on your dynamic assembly)
+var type = compiler.Compile(code, dependencies, true); 
 ```
 
 5 - Create an instance of your dynamically generated type.
 ```
-var instance = Activator.CreateInstance(type, null); // pass any constructor dependencies that you might have on your type instead of null
+// Pass any constructor dependencies that you might have on your type, instead of null
+var instance = Activator.CreateInstance(type, null);
 ```
