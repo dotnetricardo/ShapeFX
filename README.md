@@ -34,5 +34,7 @@ var type = compiler.Compile(code, dependencies, true);
 var instance = Activator.CreateInstance(type, null);
 ```
 
-# Creating a new compilation Engine
-<h3>IEngine interface</h3>
+6 - Call any method on your new type.
+```
+instance.MyMethod()
+```
