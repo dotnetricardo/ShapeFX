@@ -24,7 +24,7 @@ var compiler = new Compiler<RoslynEngine>();
 
 4 - Compile your type, by calling the Compile method of the compiler you created.
 ```
-// The true flag if for generating debug information on your dynamic assembly)
+// The true flag if for generating debug information on your dynamic assembly
 var type = compiler.Compile(code, dependencies, true); 
 ```
 
@@ -36,5 +36,5 @@ var instance = Activator.CreateInstance(type, null);
 
 6 - Call any method on your new type.
 ```
-instance.MyMethod()
+instance.Foo()
 ```
