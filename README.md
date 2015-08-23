@@ -7,4 +7,5 @@ If you want to start playing around with Dynamic Compilation and don't know wher
 ShapeFX is built with extensibility in mind so you can even plug in other compilation engines besides the ones mentioned above. 
 
 # Instructions
+<h3>Getting metadata and creating entities:</h3>
 
