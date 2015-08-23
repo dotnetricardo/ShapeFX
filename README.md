@@ -6,6 +6,7 @@ If you want to start playing around with Dynamic Compilation and don't know wher
 
 ShapeFX is built with extensibility in mind so you can even plug in other compilation engines besides the ones mentioned above. 
 
-# API
+# Instructions
 <h3>Compiling a new type:</h3>
-
+1 - Pass your source code as a string.
+var code = File.ReadAllText("PathToYourFile");
