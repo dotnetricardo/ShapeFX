@@ -36,5 +36,5 @@ var instance = Activator.CreateInstance(type, null);
 
 6 - Call any method on your new type.
 ```
-instance.Foo()
+var result = instance.Foo();
 ```
