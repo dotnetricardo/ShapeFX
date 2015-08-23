@@ -9,4 +9,6 @@ ShapeFX is built with extensibility in mind so you can even plug in other compil
 # Instructions
 <h3>Compiling a new type:</h3>
 1 - Pass your source code as a string.
+```
 var code = File.ReadAllText("PathToYourFile");
+```
