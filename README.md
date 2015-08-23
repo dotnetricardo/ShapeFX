@@ -1,5 +1,4 @@
-# ShapeFX
-Dynamic Compilation Engines Aggregator Library for .NET.
+# ShapeFX - Dynamic Compilation Engines Aggregator Library for .NET.
 
 ShapeFX unifies under a simple API the 3 most common Dynamic Compilation engines for C#, Roslyn, CodeDom and Mono CSharp Compiler.
 
