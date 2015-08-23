@@ -17,7 +17,7 @@ var code = File.ReadAllText("PathToYourClassFile");
 var dependencies = AppDomain.CurrentDomain.GetAssemblies().ToArray()
 ```
 
-3 - Instantiate your compiler based on the compilation engine of your choice. You can select one from the 3 built-in compiler class engines, RoslynEngine, MonoEngine and CodeDomEngine. You can even plug in our own by implementing the IEngine interface.
+3 - Instantiate your compiler based on the compilation engine of your choice. You can select one from the 3 built-in compiler class engines, <strong>RoslynEngine</strong>, <strong>MonoEngine</strong> and <strong>CodeDomEngine</strong>. You can even plug in our own by implementing the IEngine interface.
 ```
 var compiler = new Compiler<RoslynEngine>();
 ```
