@@ -12,13 +12,18 @@ ShapeFX is built with extensibility in mind so you can even plug in other compil
 ```
 var code = File.ReadAllText("PathToYourClassFile");
 ```
-2 - Pass the assembly dependencies you need for your type to compile (if you don't pass anything the below line will be automatically used up ahead).
+2 - Pass the assembly dependencies you need for your type to compile (if you don't pass anything the below line will be automatically called).
 ```
 var dependencies = AppDomain.CurrentDomain.GetAssemblies().ToArray()
 ```
 
-2 - Create your compiler based on the compilation engine you desire.
+3 - Instantiate your compiler based on the compilation engine of your choice. You can select one from the 3 built-in compiler class engines, RoslynEngine, MonoEngine and CodeDomEngine. You can even plug in our own by implementing the IEngine interface.
 ```
 var compiler = new Compiler<RoslynEngine>();
+```
+
+4 - Compile your type, by calling the Compile method on the compiler.
+```
+var type = compiler.compile(code, dependencies, false); // the false flag if for not generating debug info, defaults to true.
 ```
 
