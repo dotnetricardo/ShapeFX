@@ -33,3 +33,6 @@ var type = compiler.Compile(code, dependencies, true);
 // Pass any constructor dependencies that you might have on your type, instead of null
 var instance = Activator.CreateInstance(type, null);
 ```
+
+# Creating a new compilation Engine
+<h3>IEngine interface</h3>
