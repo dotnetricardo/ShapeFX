@@ -1,0 +1,370 @@
+C:\Users\RBarbosa\Desktop\latestngreatest\develop\ShapeFX.Compilation.Tests\bin\Debug\Dotfuscator1.xml
+C:\Users\RBarbosa\Desktop\latestngreatest\develop\ShapeFX.Compilation.Tests\bin\Debug\post.ps1
+C:\Users\RBarbosa\Desktop\latestngreatest\develop\ShapeFX.Compilation.Tests\bin\Debug\ToCompileClasses\MyGenericClass.cs
+C:\Users\RBarbosa\Desktop\latestngreatest\develop\ShapeFX.Compilation.Tests\bin\Debug\ToCompileClasses\MyTestClass.cs
+C:\Users\RBarbosa\Desktop\latestngreatest\develop\ShapeFX.Compilation.Tests\bin\Debug\ShapeFX.Compilation.Tests.dll
+C:\Users\RBarbosa\Desktop\latestngreatest\develop\ShapeFX.Compilation.Tests\bin\Debug\ShapeFX.Compilation.Tests.pdb
+C:\Users\RBarbosa\Desktop\latestngreatest\develop\ShapeFX.Compilation.Tests\bin\Debug\FakeItEasy.dll
+C:\Users\RBarbosa\Desktop\latestngreatest\develop\ShapeFX.Compilation.Tests\bin\Debug\FluentAssertions.Core.dll
+C:\Users\RBarbosa\Desktop\latestngreatest\develop\ShapeFX.Compilation.Tests\bin\Debug\FluentAssertions.dll
+C:\Users\RBarbosa\Desktop\latestngreatest\develop\ShapeFX.Compilation.Tests\bin\Debug\nunit.framework.dll
+C:\Users\RBarbosa\Desktop\latestngreatest\develop\ShapeFX.Compilation.Tests\bin\Debug\ShapeFX.Compilation.dll
+C:\Users\RBarbosa\Desktop\latestngreatest\develop\ShapeFX.Compilation.Tests\bin\Debug\Mono.CSharp.dll
+C:\Users\RBarbosa\Desktop\latestngreatest\develop\ShapeFX.Compilation.Tests\bin\Debug\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\RBarbosa\Desktop\latestngreatest\develop\ShapeFX.Compilation.Tests\bin\Debug\Microsoft.CodeAnalysis.dll
+C:\Users\RBarbosa\Desktop\latestngreatest\develop\ShapeFX.Compilation.Tests\bin\Debug\System.Collections.Immutable.dll
+C:\Users\RBarbosa\Desktop\latestngreatest\develop\ShapeFX.Compilation.Tests\bin\Debug\System.Reflection.Metadata.dll
+C:\Users\RBarbosa\Desktop\latestngreatest\develop\ShapeFX.Compilation.Tests\bin\Debug\ShapeFX.Compilation.pdb
+C:\Users\RBarbosa\Desktop\latestngreatest\develop\ShapeFX.Compilation.Tests\bin\Debug\FakeItEasy.xml
+C:\Users\RBarbosa\Desktop\latestngreatest\develop\ShapeFX.Compilation.Tests\bin\Debug\FluentAssertions.pdb
+C:\Users\RBarbosa\Desktop\latestngreatest\develop\ShapeFX.Compilation.Tests\bin\Debug\FluentAssertions.xml
+C:\Users\RBarbosa\Desktop\latestngreatest\develop\ShapeFX.Compilation.Tests\bin\Debug\FluentAssertions.Core.pdb
+C:\Users\RBarbosa\Desktop\latestngreatest\develop\ShapeFX.Compilation.Tests\bin\Debug\FluentAssertions.Core.xml
+C:\Users\RBarbosa\Desktop\latestngreatest\develop\ShapeFX.Compilation.Tests\bin\Debug\nunit.framework.xml
+C:\Users\RBarbosa\Desktop\latestngreatest\develop\ShapeFX.Compilation.Tests\bin\Debug\Mono.CSharp.pdb
+C:\Users\RBarbosa\Desktop\latestngreatest\develop\ShapeFX.Compilation.Tests\obj\Debug\ShapeFX.Compilation.Tests.csprojResolveAssemblyReference.cache
+C:\Users\RBarbosa\Desktop\latestngreatest\develop\ShapeFX.Compilation.Tests\obj\Debug\ShapeFX.Compilation.Tests.dll
+C:\Users\RBarbosa\Desktop\latestngreatest\develop\ShapeFX.Compilation.Tests\obj\Debug\ShapeFX.Compilation.Tests.pdb
+C:\Users\Ricardo\Desktop\beta\develop\ShapeFX.Compilation.Tests\bin\Debug\Dotfuscator1.xml
+C:\Users\Ricardo\Desktop\beta\develop\ShapeFX.Compilation.Tests\bin\Debug\post.ps1
+C:\Users\Ricardo\Desktop\beta\develop\ShapeFX.Compilation.Tests\bin\Debug\ToCompileClasses\MyGenericClass.cs
+C:\Users\Ricardo\Desktop\beta\develop\ShapeFX.Compilation.Tests\bin\Debug\ToCompileClasses\MyTestClass.cs
+C:\Users\Ricardo\Desktop\beta\develop\ShapeFX.Compilation.Tests\bin\Debug\ShapeFX.Compilation.Tests.dll
+C:\Users\Ricardo\Desktop\beta\develop\ShapeFX.Compilation.Tests\bin\Debug\ShapeFX.Compilation.Tests.pdb
+C:\Users\Ricardo\Desktop\beta\develop\ShapeFX.Compilation.Tests\bin\Debug\FakeItEasy.dll
+C:\Users\Ricardo\Desktop\beta\develop\ShapeFX.Compilation.Tests\bin\Debug\FluentAssertions.Core.dll
+C:\Users\Ricardo\Desktop\beta\develop\ShapeFX.Compilation.Tests\bin\Debug\FluentAssertions.dll
+C:\Users\Ricardo\Desktop\beta\develop\ShapeFX.Compilation.Tests\bin\Debug\nunit.framework.dll
+C:\Users\Ricardo\Desktop\beta\develop\ShapeFX.Compilation.Tests\bin\Debug\ShapeFX.Compilation.dll
+C:\Users\Ricardo\Desktop\beta\develop\ShapeFX.Compilation.Tests\bin\Debug\Mono.CSharp.dll
+C:\Users\Ricardo\Desktop\beta\develop\ShapeFX.Compilation.Tests\bin\Debug\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ricardo\Desktop\beta\develop\ShapeFX.Compilation.Tests\bin\Debug\Microsoft.CodeAnalysis.dll
+C:\Users\Ricardo\Desktop\beta\develop\ShapeFX.Compilation.Tests\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Ricardo\Desktop\beta\develop\ShapeFX.Compilation.Tests\bin\Debug\System.Reflection.Metadata.dll
+C:\Users\Ricardo\Desktop\beta\develop\ShapeFX.Compilation.Tests\bin\Debug\ShapeFX.Compilation.pdb
+C:\Users\Ricardo\Desktop\beta\develop\ShapeFX.Compilation.Tests\bin\Debug\FakeItEasy.xml
+C:\Users\Ricardo\Desktop\beta\develop\ShapeFX.Compilation.Tests\bin\Debug\FluentAssertions.pdb
+C:\Users\Ricardo\Desktop\beta\develop\ShapeFX.Compilation.Tests\bin\Debug\FluentAssertions.xml
+C:\Users\Ricardo\Desktop\beta\develop\ShapeFX.Compilation.Tests\bin\Debug\FluentAssertions.Core.pdb
+C:\Users\Ricardo\Desktop\beta\develop\ShapeFX.Compilation.Tests\bin\Debug\FluentAssertions.Core.xml
+C:\Users\Ricardo\Desktop\beta\develop\ShapeFX.Compilation.Tests\bin\Debug\nunit.framework.xml
+C:\Users\Ricardo\Desktop\beta\develop\ShapeFX.Compilation.Tests\bin\Debug\Mono.CSharp.pdb
+C:\Users\Ricardo\Desktop\beta\develop\ShapeFX.Compilation.Tests\obj\Debug\ShapeFX.Compilation.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Ricardo\Desktop\beta\develop\ShapeFX.Compilation.Tests\obj\Debug\ShapeFX.Compilation.Tests.dll
+C:\Users\Ricardo\Desktop\beta\develop\ShapeFX.Compilation.Tests\obj\Debug\ShapeFX.Compilation.Tests.pdb
+C:\Users\RBarbosa\Desktop\refactor\develop\ShapeFX.Compilation.Tests\bin\Debug\Dotfuscator1.xml
+C:\Users\RBarbosa\Desktop\refactor\develop\ShapeFX.Compilation.Tests\bin\Debug\post.ps1
+C:\Users\RBarbosa\Desktop\refactor\develop\ShapeFX.Compilation.Tests\bin\Debug\ToCompileClasses\MyGenericClass.cs
+C:\Users\RBarbosa\Desktop\refactor\develop\ShapeFX.Compilation.Tests\bin\Debug\ToCompileClasses\MyTestClass.cs
+C:\Users\RBarbosa\Desktop\refactor\develop\ShapeFX.Compilation.Tests\bin\Debug\ShapeFX.Compilation.Tests.dll
+C:\Users\RBarbosa\Desktop\refactor\develop\ShapeFX.Compilation.Tests\bin\Debug\ShapeFX.Compilation.Tests.pdb
+C:\Users\RBarbosa\Desktop\refactor\develop\ShapeFX.Compilation.Tests\bin\Debug\FakeItEasy.dll
+C:\Users\RBarbosa\Desktop\refactor\develop\ShapeFX.Compilation.Tests\bin\Debug\FluentAssertions.Core.dll
+C:\Users\RBarbosa\Desktop\refactor\develop\ShapeFX.Compilation.Tests\bin\Debug\FluentAssertions.dll
+C:\Users\RBarbosa\Desktop\refactor\develop\ShapeFX.Compilation.Tests\bin\Debug\nunit.framework.dll
+C:\Users\RBarbosa\Desktop\refactor\develop\ShapeFX.Compilation.Tests\bin\Debug\ShapeFX.Compilation.dll
+C:\Users\RBarbosa\Desktop\refactor\develop\ShapeFX.Compilation.Tests\bin\Debug\Mono.CSharp.dll
+C:\Users\RBarbosa\Desktop\refactor\develop\ShapeFX.Compilation.Tests\bin\Debug\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\RBarbosa\Desktop\refactor\develop\ShapeFX.Compilation.Tests\bin\Debug\Microsoft.CodeAnalysis.dll
+C:\Users\RBarbosa\Desktop\refactor\develop\ShapeFX.Compilation.Tests\bin\Debug\System.Collections.Immutable.dll
+C:\Users\RBarbosa\Desktop\refactor\develop\ShapeFX.Compilation.Tests\bin\Debug\System.Reflection.Metadata.dll
+C:\Users\RBarbosa\Desktop\refactor\develop\ShapeFX.Compilation.Tests\bin\Debug\ShapeFX.Compilation.pdb
+C:\Users\RBarbosa\Desktop\refactor\develop\ShapeFX.Compilation.Tests\bin\Debug\FakeItEasy.xml
+C:\Users\RBarbosa\Desktop\refactor\develop\ShapeFX.Compilation.Tests\bin\Debug\FluentAssertions.pdb
+C:\Users\RBarbosa\Desktop\refactor\develop\ShapeFX.Compilation.Tests\bin\Debug\FluentAssertions.xml
+C:\Users\RBarbosa\Desktop\refactor\develop\ShapeFX.Compilation.Tests\bin\Debug\FluentAssertions.Core.pdb
+C:\Users\RBarbosa\Desktop\refactor\develop\ShapeFX.Compilation.Tests\bin\Debug\FluentAssertions.Core.xml
+C:\Users\RBarbosa\Desktop\refactor\develop\ShapeFX.Compilation.Tests\bin\Debug\nunit.framework.xml
+C:\Users\RBarbosa\Desktop\refactor\develop\ShapeFX.Compilation.Tests\bin\Debug\Mono.CSharp.pdb
+C:\Users\RBarbosa\Desktop\refactor\develop\ShapeFX.Compilation.Tests\obj\Debug\ShapeFX.Compilation.Tests.csprojResolveAssemblyReference.cache
+C:\Users\RBarbosa\Desktop\refactor\develop\ShapeFX.Compilation.Tests\obj\Debug\ShapeFX.Compilation.Tests.dll
+C:\Users\RBarbosa\Desktop\refactor\develop\ShapeFX.Compilation.Tests\obj\Debug\ShapeFX.Compilation.Tests.pdb
+C:\Users\RBarbosa\Desktop\aqui\develop\ShapeFX.Compilation.Tests\bin\Debug\Dotfuscator1.xml
+C:\Users\RBarbosa\Desktop\aqui\develop\ShapeFX.Compilation.Tests\bin\Debug\post.ps1
+C:\Users\RBarbosa\Desktop\aqui\develop\ShapeFX.Compilation.Tests\bin\Debug\ToCompileClasses\MyGenericClass.cs
+C:\Users\RBarbosa\Desktop\aqui\develop\ShapeFX.Compilation.Tests\bin\Debug\ToCompileClasses\MyTestClass.cs
+C:\Users\RBarbosa\Desktop\aqui\develop\ShapeFX.Compilation.Tests\bin\Debug\ShapeFX.Compilation.Tests.dll
+C:\Users\RBarbosa\Desktop\aqui\develop\ShapeFX.Compilation.Tests\bin\Debug\ShapeFX.Compilation.Tests.pdb
+C:\Users\RBarbosa\Desktop\aqui\develop\ShapeFX.Compilation.Tests\bin\Debug\FakeItEasy.dll
+C:\Users\RBarbosa\Desktop\aqui\develop\ShapeFX.Compilation.Tests\bin\Debug\FluentAssertions.Core.dll
+C:\Users\RBarbosa\Desktop\aqui\develop\ShapeFX.Compilation.Tests\bin\Debug\FluentAssertions.dll
+C:\Users\RBarbosa\Desktop\aqui\develop\ShapeFX.Compilation.Tests\bin\Debug\nunit.framework.dll
+C:\Users\RBarbosa\Desktop\aqui\develop\ShapeFX.Compilation.Tests\bin\Debug\ShapeFX.Compilation.dll
+C:\Users\RBarbosa\Desktop\aqui\develop\ShapeFX.Compilation.Tests\bin\Debug\Mono.CSharp.dll
+C:\Users\RBarbosa\Desktop\aqui\develop\ShapeFX.Compilation.Tests\bin\Debug\Microsoft.CodeAnalysis.dll
+C:\Users\RBarbosa\Desktop\aqui\develop\ShapeFX.Compilation.Tests\bin\Debug\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\RBarbosa\Desktop\aqui\develop\ShapeFX.Compilation.Tests\bin\Debug\ShapeFX.Shared.dll
+C:\Users\RBarbosa\Desktop\aqui\develop\ShapeFX.Compilation.Tests\bin\Debug\System.Collections.Immutable.dll
+C:\Users\RBarbosa\Desktop\aqui\develop\ShapeFX.Compilation.Tests\bin\Debug\System.Reflection.Metadata.dll
+C:\Users\RBarbosa\Desktop\aqui\develop\ShapeFX.Compilation.Tests\bin\Debug\ShapeFX.Compilation.pdb
+C:\Users\RBarbosa\Desktop\aqui\develop\ShapeFX.Compilation.Tests\bin\Debug\FakeItEasy.xml
+C:\Users\RBarbosa\Desktop\aqui\develop\ShapeFX.Compilation.Tests\bin\Debug\FluentAssertions.pdb
+C:\Users\RBarbosa\Desktop\aqui\develop\ShapeFX.Compilation.Tests\bin\Debug\FluentAssertions.xml
+C:\Users\RBarbosa\Desktop\aqui\develop\ShapeFX.Compilation.Tests\bin\Debug\FluentAssertions.Core.pdb
+C:\Users\RBarbosa\Desktop\aqui\develop\ShapeFX.Compilation.Tests\bin\Debug\FluentAssertions.Core.xml
+C:\Users\RBarbosa\Desktop\aqui\develop\ShapeFX.Compilation.Tests\bin\Debug\nunit.framework.xml
+C:\Users\RBarbosa\Desktop\aqui\develop\ShapeFX.Compilation.Tests\bin\Debug\ShapeFX.Shared.pdb
+C:\Users\RBarbosa\Desktop\aqui\develop\ShapeFX.Compilation.Tests\obj\Debug\ShapeFX.Compilation.Tests.csprojResolveAssemblyReference.cache
+C:\Users\RBarbosa\Desktop\aqui\develop\ShapeFX.Compilation.Tests\obj\Debug\ShapeFX.Compilation.Tests.dll
+C:\Users\RBarbosa\Desktop\aqui\develop\ShapeFX.Compilation.Tests\obj\Debug\ShapeFX.Compilation.Tests.pdb
+C:\Users\RBarbosa\Desktop\aqui3\develop\ShapeFX.Compilation.Tests\bin\Debug\Dotfuscator1.xml
+C:\Users\RBarbosa\Desktop\aqui3\develop\ShapeFX.Compilation.Tests\bin\Debug\post.ps1
+C:\Users\RBarbosa\Desktop\aqui3\develop\ShapeFX.Compilation.Tests\bin\Debug\ToCompileClasses\MyGenericClass.cs
+C:\Users\RBarbosa\Desktop\aqui3\develop\ShapeFX.Compilation.Tests\bin\Debug\ToCompileClasses\MyTestClass.cs
+C:\Users\RBarbosa\Desktop\aqui3\develop\ShapeFX.Compilation.Tests\bin\Debug\ShapeFX.Compilation.Tests.dll
+C:\Users\RBarbosa\Desktop\aqui3\develop\ShapeFX.Compilation.Tests\bin\Debug\ShapeFX.Compilation.Tests.pdb
+C:\Users\RBarbosa\Desktop\aqui3\develop\ShapeFX.Compilation.Tests\bin\Debug\FakeItEasy.dll
+C:\Users\RBarbosa\Desktop\aqui3\develop\ShapeFX.Compilation.Tests\bin\Debug\FluentAssertions.Core.dll
+C:\Users\RBarbosa\Desktop\aqui3\develop\ShapeFX.Compilation.Tests\bin\Debug\FluentAssertions.dll
+C:\Users\RBarbosa\Desktop\aqui3\develop\ShapeFX.Compilation.Tests\bin\Debug\nunit.framework.dll
+C:\Users\RBarbosa\Desktop\aqui3\develop\ShapeFX.Compilation.Tests\bin\Debug\ShapeFX.Compilation.dll
+C:\Users\RBarbosa\Desktop\aqui3\develop\ShapeFX.Compilation.Tests\bin\Debug\Mono.CSharp.dll
+C:\Users\RBarbosa\Desktop\aqui3\develop\ShapeFX.Compilation.Tests\bin\Debug\ShapeFX.Shared.dll
+C:\Users\RBarbosa\Desktop\aqui3\develop\ShapeFX.Compilation.Tests\bin\Debug\Microsoft.CodeAnalysis.dll
+C:\Users\RBarbosa\Desktop\aqui3\develop\ShapeFX.Compilation.Tests\bin\Debug\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\RBarbosa\Desktop\aqui3\develop\ShapeFX.Compilation.Tests\bin\Debug\ShapeFX.Config.dll
+C:\Users\RBarbosa\Desktop\aqui3\develop\ShapeFX.Compilation.Tests\bin\Debug\System.Collections.Immutable.dll
+C:\Users\RBarbosa\Desktop\aqui3\develop\ShapeFX.Compilation.Tests\bin\Debug\System.Reflection.Metadata.dll
+C:\Users\RBarbosa\Desktop\aqui3\develop\ShapeFX.Compilation.Tests\bin\Debug\ShapeFX.Compilation.pdb
+C:\Users\RBarbosa\Desktop\aqui3\develop\ShapeFX.Compilation.Tests\bin\Debug\FakeItEasy.xml
+C:\Users\RBarbosa\Desktop\aqui3\develop\ShapeFX.Compilation.Tests\bin\Debug\FluentAssertions.pdb
+C:\Users\RBarbosa\Desktop\aqui3\develop\ShapeFX.Compilation.Tests\bin\Debug\FluentAssertions.xml
+C:\Users\RBarbosa\Desktop\aqui3\develop\ShapeFX.Compilation.Tests\bin\Debug\FluentAssertions.Core.pdb
+C:\Users\RBarbosa\Desktop\aqui3\develop\ShapeFX.Compilation.Tests\bin\Debug\FluentAssertions.Core.xml
+C:\Users\RBarbosa\Desktop\aqui3\develop\ShapeFX.Compilation.Tests\bin\Debug\nunit.framework.xml
+C:\Users\RBarbosa\Desktop\aqui3\develop\ShapeFX.Compilation.Tests\bin\Debug\ShapeFX.Shared.pdb
+C:\Users\RBarbosa\Desktop\aqui3\develop\ShapeFX.Compilation.Tests\bin\Debug\Microsoft.CodeAnalysis.xml
+C:\Users\RBarbosa\Desktop\aqui3\develop\ShapeFX.Compilation.Tests\bin\Debug\Microsoft.CodeAnalysis.CSharp.xml
+C:\Users\RBarbosa\Desktop\aqui3\develop\ShapeFX.Compilation.Tests\bin\Debug\ShapeFX.Config.pdb
+C:\Users\RBarbosa\Desktop\aqui3\develop\ShapeFX.Compilation.Tests\bin\Debug\System.Collections.Immutable.xml
+C:\Users\RBarbosa\Desktop\aqui3\develop\ShapeFX.Compilation.Tests\bin\Debug\System.Reflection.Metadata.xml
+C:\Users\RBarbosa\Desktop\aqui3\develop\ShapeFX.Compilation.Tests\obj\Debug\ShapeFX.Compilation.Tests.csprojResolveAssemblyReference.cache
+C:\Users\RBarbosa\Desktop\aqui3\develop\ShapeFX.Compilation.Tests\obj\Debug\ShapeFX.Compilation.Tests.dll
+C:\Users\RBarbosa\Desktop\aqui3\develop\ShapeFX.Compilation.Tests\obj\Debug\ShapeFX.Compilation.Tests.pdb
+C:\Users\Ricardo\Documents\bitbucket\develop\ShapeFX.Compilation.Tests\bin\Debug\Dotfuscator1.xml
+C:\Users\Ricardo\Documents\bitbucket\develop\ShapeFX.Compilation.Tests\bin\Debug\post.ps1
+C:\Users\Ricardo\Documents\bitbucket\develop\ShapeFX.Compilation.Tests\bin\Debug\ToCompileClasses\MyGenericClass.cs
+C:\Users\Ricardo\Documents\bitbucket\develop\ShapeFX.Compilation.Tests\bin\Debug\ToCompileClasses\MyTestClass.cs
+C:\Users\Ricardo\Documents\bitbucket\develop\ShapeFX.Compilation.Tests\bin\Debug\ShapeFX.Compilation.Tests.dll
+C:\Users\Ricardo\Documents\bitbucket\develop\ShapeFX.Compilation.Tests\bin\Debug\ShapeFX.Compilation.Tests.pdb
+C:\Users\Ricardo\Documents\bitbucket\develop\ShapeFX.Compilation.Tests\bin\Debug\FakeItEasy.dll
+C:\Users\Ricardo\Documents\bitbucket\develop\ShapeFX.Compilation.Tests\bin\Debug\FluentAssertions.Core.dll
+C:\Users\Ricardo\Documents\bitbucket\develop\ShapeFX.Compilation.Tests\bin\Debug\FluentAssertions.dll
+C:\Users\Ricardo\Documents\bitbucket\develop\ShapeFX.Compilation.Tests\bin\Debug\nunit.framework.dll
+C:\Users\Ricardo\Documents\bitbucket\develop\ShapeFX.Compilation.Tests\bin\Debug\ShapeFX.Compilation.dll
+C:\Users\Ricardo\Documents\bitbucket\develop\ShapeFX.Compilation.Tests\bin\Debug\Mono.CSharp.dll
+C:\Users\Ricardo\Documents\bitbucket\develop\ShapeFX.Compilation.Tests\bin\Debug\ShapeFX.Shared.dll
+C:\Users\Ricardo\Documents\bitbucket\develop\ShapeFX.Compilation.Tests\bin\Debug\Microsoft.CodeAnalysis.dll
+C:\Users\Ricardo\Documents\bitbucket\develop\ShapeFX.Compilation.Tests\bin\Debug\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ricardo\Documents\bitbucket\develop\ShapeFX.Compilation.Tests\bin\Debug\ShapeFX.Config.dll
+C:\Users\Ricardo\Documents\bitbucket\develop\ShapeFX.Compilation.Tests\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Ricardo\Documents\bitbucket\develop\ShapeFX.Compilation.Tests\bin\Debug\System.Reflection.Metadata.dll
+C:\Users\Ricardo\Documents\bitbucket\develop\ShapeFX.Compilation.Tests\bin\Debug\ShapeFX.Compilation.pdb
+C:\Users\Ricardo\Documents\bitbucket\develop\ShapeFX.Compilation.Tests\bin\Debug\FakeItEasy.xml
+C:\Users\Ricardo\Documents\bitbucket\develop\ShapeFX.Compilation.Tests\bin\Debug\FluentAssertions.pdb
+C:\Users\Ricardo\Documents\bitbucket\develop\ShapeFX.Compilation.Tests\bin\Debug\FluentAssertions.xml
+C:\Users\Ricardo\Documents\bitbucket\develop\ShapeFX.Compilation.Tests\bin\Debug\FluentAssertions.Core.pdb
+C:\Users\Ricardo\Documents\bitbucket\develop\ShapeFX.Compilation.Tests\bin\Debug\FluentAssertions.Core.xml
+C:\Users\Ricardo\Documents\bitbucket\develop\ShapeFX.Compilation.Tests\bin\Debug\nunit.framework.xml
+C:\Users\Ricardo\Documents\bitbucket\develop\ShapeFX.Compilation.Tests\bin\Debug\ShapeFX.Shared.pdb
+C:\Users\Ricardo\Documents\bitbucket\develop\ShapeFX.Compilation.Tests\bin\Debug\Microsoft.CodeAnalysis.xml
+C:\Users\Ricardo\Documents\bitbucket\develop\ShapeFX.Compilation.Tests\bin\Debug\Microsoft.CodeAnalysis.CSharp.xml
+C:\Users\Ricardo\Documents\bitbucket\develop\ShapeFX.Compilation.Tests\bin\Debug\ShapeFX.Config.pdb
+C:\Users\Ricardo\Documents\bitbucket\develop\ShapeFX.Compilation.Tests\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Ricardo\Documents\bitbucket\develop\ShapeFX.Compilation.Tests\bin\Debug\System.Reflection.Metadata.xml
+C:\Users\Ricardo\Documents\bitbucket\develop\ShapeFX.Compilation.Tests\obj\Debug\ShapeFX.Compilation.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Ricardo\Documents\bitbucket\develop\ShapeFX.Compilation.Tests\obj\Debug\ShapeFX.Compilation.Tests.dll
+C:\Users\Ricardo\Documents\bitbucket\develop\ShapeFX.Compilation.Tests\obj\Debug\ShapeFX.Compilation.Tests.pdb
+\\psf\Home\Documents\Visual Studio 2013\Projects\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\Dotfuscator1.xml
+\\psf\Home\Documents\Visual Studio 2013\Projects\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\post.ps1
+\\psf\Home\Documents\Visual Studio 2013\Projects\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\ToCompileClasses\MyGenericClass.cs
+\\psf\Home\Documents\Visual Studio 2013\Projects\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\ToCompileClasses\MyTestClass.cs
+\\psf\Home\Documents\Visual Studio 2013\Projects\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\ShapeFX.Compilation.Tests.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\ShapeFX.Compilation.Tests.pdb
+\\psf\Home\Documents\Visual Studio 2013\Projects\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\FakeItEasy.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\FluentAssertions.Core.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\FluentAssertions.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\nunit.framework.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\ShapeFX.Compilation.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\Mono.CSharp.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\Microsoft.CodeAnalysis.CSharp.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\Microsoft.CodeAnalysis.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\ShapeFX.Shared.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\ShapeFX.Config.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\System.Collections.Immutable.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\System.Reflection.Metadata.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\ShapeFX.Compilation.pdb
+\\psf\Home\Documents\Visual Studio 2013\Projects\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\FakeItEasy.xml
+\\psf\Home\Documents\Visual Studio 2013\Projects\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\FluentAssertions.pdb
+\\psf\Home\Documents\Visual Studio 2013\Projects\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\FluentAssertions.xml
+\\psf\Home\Documents\Visual Studio 2013\Projects\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\FluentAssertions.Core.pdb
+\\psf\Home\Documents\Visual Studio 2013\Projects\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\FluentAssertions.Core.xml
+\\psf\Home\Documents\Visual Studio 2013\Projects\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\nunit.framework.xml
+\\psf\Home\Documents\Visual Studio 2013\Projects\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\Microsoft.CodeAnalysis.CSharp.xml
+\\psf\Home\Documents\Visual Studio 2013\Projects\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\Microsoft.CodeAnalysis.xml
+\\psf\Home\Documents\Visual Studio 2013\Projects\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\ShapeFX.Shared.pdb
+\\psf\Home\Documents\Visual Studio 2013\Projects\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\ShapeFX.Config.pdb
+\\psf\Home\Documents\Visual Studio 2013\Projects\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\System.Collections.Immutable.xml
+\\psf\Home\Documents\Visual Studio 2013\Projects\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\System.Reflection.Metadata.xml
+\\psf\Home\Documents\Visual Studio 2013\Projects\ShapeFX\ShapeFX.Compilation.Tests\obj\Debug\ShapeFX.Compilation.Tests.csprojResolveAssemblyReference.cache
+\\psf\Home\Documents\Visual Studio 2013\Projects\ShapeFX\ShapeFX.Compilation.Tests\obj\Debug\ShapeFX.Compilation.Tests.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\ShapeFX\ShapeFX.Compilation.Tests\obj\Debug\ShapeFX.Compilation.Tests.pdb
+C:\Users\RBarbosa\Desktop\shapefx4\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\Dotfuscator1.xml
+C:\Users\RBarbosa\Desktop\shapefx4\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\post.ps1
+C:\Users\RBarbosa\Desktop\shapefx4\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\ToCompileClasses\MyGenericClass.cs
+C:\Users\RBarbosa\Desktop\shapefx4\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\ToCompileClasses\MyTestClass.cs
+C:\Users\RBarbosa\Desktop\shapefx4\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\ShapeFX.Compilation.Tests.dll
+C:\Users\RBarbosa\Desktop\shapefx4\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\ShapeFX.Compilation.Tests.pdb
+C:\Users\RBarbosa\Desktop\shapefx4\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\FakeItEasy.dll
+C:\Users\RBarbosa\Desktop\shapefx4\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\FluentAssertions.Core.dll
+C:\Users\RBarbosa\Desktop\shapefx4\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\FluentAssertions.dll
+C:\Users\RBarbosa\Desktop\shapefx4\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\nunit.framework.dll
+C:\Users\RBarbosa\Desktop\shapefx4\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\ShapeFX.Compilation.dll
+C:\Users\RBarbosa\Desktop\shapefx4\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\Mono.CSharp.dll
+C:\Users\RBarbosa\Desktop\shapefx4\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\ShapeFX.Shared.dll
+C:\Users\RBarbosa\Desktop\shapefx4\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\Microsoft.CodeAnalysis.dll
+C:\Users\RBarbosa\Desktop\shapefx4\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\RBarbosa\Desktop\shapefx4\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\ShapeFX.Config.dll
+C:\Users\RBarbosa\Desktop\shapefx4\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\System.Collections.Immutable.dll
+C:\Users\RBarbosa\Desktop\shapefx4\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\System.Reflection.Metadata.dll
+C:\Users\RBarbosa\Desktop\shapefx4\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\ShapeFX.Compilation.pdb
+C:\Users\RBarbosa\Desktop\shapefx4\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\FakeItEasy.xml
+C:\Users\RBarbosa\Desktop\shapefx4\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\FluentAssertions.pdb
+C:\Users\RBarbosa\Desktop\shapefx4\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\FluentAssertions.xml
+C:\Users\RBarbosa\Desktop\shapefx4\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\FluentAssertions.Core.pdb
+C:\Users\RBarbosa\Desktop\shapefx4\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\FluentAssertions.Core.xml
+C:\Users\RBarbosa\Desktop\shapefx4\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\nunit.framework.xml
+C:\Users\RBarbosa\Desktop\shapefx4\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\ShapeFX.Shared.pdb
+C:\Users\RBarbosa\Desktop\shapefx4\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\Microsoft.CodeAnalysis.xml
+C:\Users\RBarbosa\Desktop\shapefx4\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\Microsoft.CodeAnalysis.CSharp.xml
+C:\Users\RBarbosa\Desktop\shapefx4\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\ShapeFX.Config.pdb
+C:\Users\RBarbosa\Desktop\shapefx4\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\System.Collections.Immutable.xml
+C:\Users\RBarbosa\Desktop\shapefx4\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\System.Reflection.Metadata.xml
+C:\Users\RBarbosa\Desktop\shapefx4\ShapeFX\ShapeFX.Compilation.Tests\obj\Debug\ShapeFX.Compilation.Tests.csprojResolveAssemblyReference.cache
+C:\Users\RBarbosa\Desktop\shapefx4\ShapeFX\ShapeFX.Compilation.Tests\obj\Debug\ShapeFX.Compilation.Tests.dll
+C:\Users\RBarbosa\Desktop\shapefx4\ShapeFX\ShapeFX.Compilation.Tests\obj\Debug\ShapeFX.Compilation.Tests.pdb
+C:\Users\Ricardo\Documents\Visual Studio 2013\Projects\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\Dotfuscator1.xml
+C:\Users\Ricardo\Documents\Visual Studio 2013\Projects\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\post.ps1
+C:\Users\Ricardo\Documents\Visual Studio 2013\Projects\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\ToCompileClasses\MyGenericClass.cs
+C:\Users\Ricardo\Documents\Visual Studio 2013\Projects\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\ToCompileClasses\MyTestClass.cs
+C:\Users\Ricardo\Documents\Visual Studio 2013\Projects\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\ShapeFX.Compilation.Tests.dll
+C:\Users\Ricardo\Documents\Visual Studio 2013\Projects\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\ShapeFX.Compilation.Tests.pdb
+C:\Users\Ricardo\Documents\Visual Studio 2013\Projects\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\FakeItEasy.dll
+C:\Users\Ricardo\Documents\Visual Studio 2013\Projects\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\FluentAssertions.Core.dll
+C:\Users\Ricardo\Documents\Visual Studio 2013\Projects\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\FluentAssertions.dll
+C:\Users\Ricardo\Documents\Visual Studio 2013\Projects\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\nunit.framework.dll
+C:\Users\Ricardo\Documents\Visual Studio 2013\Projects\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\ShapeFX.Compilation.dll
+C:\Users\Ricardo\Documents\Visual Studio 2013\Projects\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\Mono.CSharp.dll
+C:\Users\Ricardo\Documents\Visual Studio 2013\Projects\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ricardo\Documents\Visual Studio 2013\Projects\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\Microsoft.CodeAnalysis.dll
+C:\Users\Ricardo\Documents\Visual Studio 2013\Projects\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\ShapeFX.Shared.dll
+C:\Users\Ricardo\Documents\Visual Studio 2013\Projects\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\ShapeFX.Config.dll
+C:\Users\Ricardo\Documents\Visual Studio 2013\Projects\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Ricardo\Documents\Visual Studio 2013\Projects\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\System.Reflection.Metadata.dll
+C:\Users\Ricardo\Documents\Visual Studio 2013\Projects\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\ShapeFX.Compilation.pdb
+C:\Users\Ricardo\Documents\Visual Studio 2013\Projects\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\FakeItEasy.xml
+C:\Users\Ricardo\Documents\Visual Studio 2013\Projects\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\FluentAssertions.pdb
+C:\Users\Ricardo\Documents\Visual Studio 2013\Projects\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\FluentAssertions.xml
+C:\Users\Ricardo\Documents\Visual Studio 2013\Projects\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\FluentAssertions.Core.pdb
+C:\Users\Ricardo\Documents\Visual Studio 2013\Projects\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\FluentAssertions.Core.xml
+C:\Users\Ricardo\Documents\Visual Studio 2013\Projects\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\nunit.framework.xml
+C:\Users\Ricardo\Documents\Visual Studio 2013\Projects\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\Microsoft.CodeAnalysis.CSharp.xml
+C:\Users\Ricardo\Documents\Visual Studio 2013\Projects\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\Microsoft.CodeAnalysis.xml
+C:\Users\Ricardo\Documents\Visual Studio 2013\Projects\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\ShapeFX.Shared.pdb
+C:\Users\Ricardo\Documents\Visual Studio 2013\Projects\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\ShapeFX.Config.pdb
+C:\Users\Ricardo\Documents\Visual Studio 2013\Projects\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Ricardo\Documents\Visual Studio 2013\Projects\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\System.Reflection.Metadata.xml
+C:\Users\Ricardo\Documents\Visual Studio 2013\Projects\ShapeFX\ShapeFX.Compilation.Tests\obj\Debug\ShapeFX.Compilation.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Ricardo\Documents\Visual Studio 2013\Projects\ShapeFX\ShapeFX.Compilation.Tests\obj\Debug\ShapeFX.Compilation.Tests.dll
+C:\Users\Ricardo\Documents\Visual Studio 2013\Projects\ShapeFX\ShapeFX.Compilation.Tests\obj\Debug\ShapeFX.Compilation.Tests.pdb
+C:\Users\RBarbosa\Desktop\ShapeFX\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\Dotfuscator1.xml
+C:\Users\RBarbosa\Desktop\ShapeFX\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\post.ps1
+C:\Users\RBarbosa\Desktop\ShapeFX\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\ToCompileClasses\MyGenericClass.cs
+C:\Users\RBarbosa\Desktop\ShapeFX\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\ToCompileClasses\MyTestClass.cs
+C:\Users\RBarbosa\Desktop\ShapeFX\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\ShapeFX.Compilation.Tests.dll
+C:\Users\RBarbosa\Desktop\ShapeFX\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\ShapeFX.Compilation.Tests.pdb
+C:\Users\RBarbosa\Desktop\ShapeFX\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\FakeItEasy.dll
+C:\Users\RBarbosa\Desktop\ShapeFX\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\FluentAssertions.Core.dll
+C:\Users\RBarbosa\Desktop\ShapeFX\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\FluentAssertions.dll
+C:\Users\RBarbosa\Desktop\ShapeFX\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\nunit.framework.dll
+C:\Users\RBarbosa\Desktop\ShapeFX\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\ShapeFX.Compilation.dll
+C:\Users\RBarbosa\Desktop\ShapeFX\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\Mono.CSharp.dll
+C:\Users\RBarbosa\Desktop\ShapeFX\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\ShapeFX.Shared.dll
+C:\Users\RBarbosa\Desktop\ShapeFX\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\Microsoft.CodeAnalysis.dll
+C:\Users\RBarbosa\Desktop\ShapeFX\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\RBarbosa\Desktop\ShapeFX\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\ShapeFX.Config.dll
+C:\Users\RBarbosa\Desktop\ShapeFX\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\System.Collections.Immutable.dll
+C:\Users\RBarbosa\Desktop\ShapeFX\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\System.Reflection.Metadata.dll
+C:\Users\RBarbosa\Desktop\ShapeFX\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\ShapeFX.Compilation.pdb
+C:\Users\RBarbosa\Desktop\ShapeFX\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\FakeItEasy.xml
+C:\Users\RBarbosa\Desktop\ShapeFX\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\FluentAssertions.pdb
+C:\Users\RBarbosa\Desktop\ShapeFX\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\FluentAssertions.xml
+C:\Users\RBarbosa\Desktop\ShapeFX\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\FluentAssertions.Core.pdb
+C:\Users\RBarbosa\Desktop\ShapeFX\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\FluentAssertions.Core.xml
+C:\Users\RBarbosa\Desktop\ShapeFX\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\nunit.framework.xml
+C:\Users\RBarbosa\Desktop\ShapeFX\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\ShapeFX.Shared.pdb
+C:\Users\RBarbosa\Desktop\ShapeFX\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\Microsoft.CodeAnalysis.xml
+C:\Users\RBarbosa\Desktop\ShapeFX\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\Microsoft.CodeAnalysis.CSharp.xml
+C:\Users\RBarbosa\Desktop\ShapeFX\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\ShapeFX.Config.pdb
+C:\Users\RBarbosa\Desktop\ShapeFX\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\System.Collections.Immutable.xml
+C:\Users\RBarbosa\Desktop\ShapeFX\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\System.Reflection.Metadata.xml
+C:\Users\RBarbosa\Desktop\ShapeFX\ShapeFX\ShapeFX.Compilation.Tests\obj\Debug\ShapeFX.Compilation.Tests.csprojResolveAssemblyReference.cache
+C:\Users\RBarbosa\Desktop\ShapeFX\ShapeFX\ShapeFX.Compilation.Tests\obj\Debug\ShapeFX.Compilation.Tests.dll
+C:\Users\RBarbosa\Desktop\ShapeFX\ShapeFX\ShapeFX.Compilation.Tests\obj\Debug\ShapeFX.Compilation.Tests.pdb
+C:\Projects\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\Dotfuscator1.xml
+C:\Projects\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\post.ps1
+C:\Projects\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\ToCompileClasses\MyGenericClass.cs
+C:\Projects\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\ToCompileClasses\MyTestClass.cs
+C:\Projects\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\ShapeFX.Compilation.Tests.dll
+C:\Projects\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\ShapeFX.Compilation.Tests.pdb
+C:\Projects\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\FakeItEasy.dll
+C:\Projects\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\FluentAssertions.Core.dll
+C:\Projects\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\FluentAssertions.dll
+C:\Projects\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\nunit.framework.dll
+C:\Projects\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\ShapeFX.Compilation.dll
+C:\Projects\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\Mono.CSharp.dll
+C:\Projects\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\Microsoft.CodeAnalysis.CSharp.dll
+C:\Projects\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\Microsoft.CodeAnalysis.dll
+C:\Projects\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\ShapeFX.Shared.dll
+C:\Projects\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\ShapeFX.Config.dll
+C:\Projects\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\System.Collections.Immutable.dll
+C:\Projects\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\System.Reflection.Metadata.dll
+C:\Projects\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\ShapeFX.Compilation.pdb
+C:\Projects\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\FakeItEasy.xml
+C:\Projects\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\FluentAssertions.pdb
+C:\Projects\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\FluentAssertions.xml
+C:\Projects\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\FluentAssertions.Core.pdb
+C:\Projects\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\FluentAssertions.Core.xml
+C:\Projects\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\nunit.framework.xml
+C:\Projects\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\Microsoft.CodeAnalysis.CSharp.xml
+C:\Projects\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\Microsoft.CodeAnalysis.xml
+C:\Projects\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\ShapeFX.Shared.pdb
+C:\Projects\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\ShapeFX.Config.pdb
+C:\Projects\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\System.Collections.Immutable.xml
+C:\Projects\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\System.Reflection.Metadata.xml
+C:\Projects\ShapeFX\ShapeFX.Compilation.Tests\obj\Debug\ShapeFX.Compilation.Tests.csprojResolveAssemblyReference.cache
+C:\Projects\ShapeFX\ShapeFX.Compilation.Tests\obj\Debug\ShapeFX.Compilation.Tests.dll
+C:\Projects\ShapeFX\ShapeFX.Compilation.Tests\obj\Debug\ShapeFX.Compilation.Tests.pdb
+C:\Projects\ShapeFX\ShapeFX\ShapeFX.Compilation.Tests\obj\Debug\ShapeFX.Compilation.Tests.csprojResolveAssemblyReference.cache
+C:\Projects\ShapeFX\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\Dotfuscator1.xml
+C:\Projects\ShapeFX\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\ToCompileClasses\MyGenericClass.cs
+C:\Projects\ShapeFX\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\ToCompileClasses\MyTestClass.cs
+C:\Projects\ShapeFX\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\ShapeFX.Compilation.Tests.dll
+C:\Projects\ShapeFX\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\ShapeFX.Compilation.Tests.pdb
+C:\Projects\ShapeFX\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\FakeItEasy.dll
+C:\Projects\ShapeFX\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\nunit.framework.dll
+C:\Projects\ShapeFX\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\ShapeFX.Compilation.dll
+C:\Projects\ShapeFX\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\Microsoft.CodeAnalysis.CSharp.dll
+C:\Projects\ShapeFX\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\Microsoft.CodeAnalysis.dll
+C:\Projects\ShapeFX\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\System.Collections.Immutable.dll
+C:\Projects\ShapeFX\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\Mono.CSharp.dll
+C:\Projects\ShapeFX\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\System.Reflection.Metadata.dll
+C:\Projects\ShapeFX\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\ShapeFX.Compilation.pdb
+C:\Projects\ShapeFX\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\FakeItEasy.xml
+C:\Projects\ShapeFX\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\nunit.framework.xml
+C:\Projects\ShapeFX\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\Microsoft.CodeAnalysis.CSharp.xml
+C:\Projects\ShapeFX\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\Microsoft.CodeAnalysis.xml
+C:\Projects\ShapeFX\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\System.Collections.Immutable.xml
+C:\Projects\ShapeFX\ShapeFX\ShapeFX.Compilation.Tests\bin\Debug\System.Reflection.Metadata.xml
+C:\Projects\ShapeFX\ShapeFX\ShapeFX.Compilation.Tests\obj\Debug\ShapeFX.Compilation.Tests.dll
+C:\Projects\ShapeFX\ShapeFX\ShapeFX.Compilation.Tests\obj\Debug\ShapeFX.Compilation.Tests.pdb
