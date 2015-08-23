@@ -22,8 +22,12 @@ var dependencies = AppDomain.CurrentDomain.GetAssemblies().ToArray()
 var compiler = new Compiler<RoslynEngine>();
 ```
 
-4 - Compile your type, by calling the Compile method on the compiler.
+4 - Compile your type, by calling the Compile method of the compiler you created.
 ```
-var type = compiler.compile(code, dependencies, false); // the false flag if for not generating debug info, defaults to true.
+var type = compiler.Compile(code, dependencies, false); // the false flag if for not generating debug info, defaults to true.
 ```
 
+5 - Create an instance of your dynamically generated type.
+```
+var instance = Activator.CreateInstance(type, null); // pass any constructor dependencies that you might have on your type instead of null
+```
