@@ -8,7 +8,20 @@ ShapeFX is built with extensibility in mind so you can even plug in other compil
 
 # Instructions
 <h3>Compiling a new type:</h3>
-1 - Pass your source code as a string.
+1 - Get your class source code into a string.
 ```
-var code = File.ReadAllText("PathToYourFile");
+var code = File.ReadAllText("PathToYourClassFile");
+
 ```
+2 - Pass the assembly dependencies you need for your type to compile (if you don't pass anything the below line will be automatically used up ahead).
+```
+var dependencies = AppDomain.CurrentDomain.GetAssemblies().ToArray()
+
+```
+
+2 - Create your compiler based on the compilation engine you desire.
+```
+var compiler = new Compiler<RoslynEngine>();
+
+```
+
